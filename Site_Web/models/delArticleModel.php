@@ -3,7 +3,7 @@
 	$message="";
 	if(!isset($sup))
 	  {
-	    header('location:dashboad');
+	    header('location:dashboard');
 
 	  }else{
 	    

@@ -12,7 +12,7 @@
 			if($tup['identifiant']==$ide AND $tup['password']==$password)
 			{
 				$_SESSION['identifiant']=$ide;
-				header('location:dashboad');
+				header('location:dashboard');
 
 			}else{
 				$err="Login ou password incorrect";

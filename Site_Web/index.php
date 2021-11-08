@@ -21,10 +21,10 @@
 	}elseif($url[0]=='auth'){
 		require 'models/authModel.php';
 		require 'vues/authentification.php';
-	}elseif($url[0]=='dashboad'){
+	}elseif($url[0]=='dashboard'){
 		require 'models/authModel.php';
 		require 'models/dashModel.php';
-		require'vues/dashboad.php';
+		require'vues/dashboardEdit.php';
 	}elseif($url[0]=='ajout'){
 		require 'models/ajoutModel.php';
 		require 'models/categoriesArticle.php';
@@ -41,7 +41,7 @@
 		require 'models/delArticleModel.php';
 		require 'vues/delArticle.php';
 	}elseif($url[0]=='delarticle' AND $url[1]=='prec'){
-		require 'vues/dashboad.php';
+		require 'vues/dashboardEdit.php';
 	}elseif($url[0]=='modifier' AND !empty($url[1])){
 		$mod=$url[1];
 		require 'models/categoriesArticle.php';
@@ -51,9 +51,9 @@
 		require 'models/adminModel.php';
 		require 'vues/admin.php';
 
-	}elseif($url[0]=='dashboadAdmin'){
+	}elseif($url[0]=='dashboardAdmin'){
 		require 'models/adminModel.php';
-		require 'vues/dashboadAdmin.php';
+		require 'vues/dashboardAdmin.php';
 	}elseif($url[0]=='ajoutuser'){
 		require 'models/ajoutUsersModel.php';
 		require 'vues/ajoutuser.php';

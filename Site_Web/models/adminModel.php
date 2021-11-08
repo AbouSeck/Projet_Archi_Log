@@ -14,7 +14,7 @@ $err="";
 			if($tup['login']==$login AND $tup['password']==$password)
 			{
 				$_SESSION['login']=$login;
-				header('location:dashboadAdmin');
+				header('location:dashboardAdmin');
 
 			}else{
 				$err="Login ou password incorrect";

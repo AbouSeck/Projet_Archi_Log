@@ -5,14 +5,20 @@
 	<title>Article Numero <?php echo $id; ?></title>
 	<link rel="stylesheet" type="text/css" href="../styles/bootstrap.min.css">
 	<style type="text/css">
-		.jumbotron{margin-bottom: 0;height: 150px;}
+		.jumbotron{
+			text-shadow: #444 0 1px 1px;
+			color: #FFF;
+			height: 40vh;
+			margin: auto;
+			text-align: center;
+		}
 	</style>
 </head>
 <body>
 	<div class="container">
-<div class="jumbotron">
-		    <h1>Site d'information en ligne</h1>      
-		    <p>Vivez l'information du jour au jour !!</p>
+		<div class="jumbotron">
+			<h1 style="font-size:100px; color: #001402 !important;">Archi Logicielle News</h1>      
+		    <p style="font-size:25px;">Ne ratez jamais l'actualité !</p>
 	  	</div>
 	  	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">

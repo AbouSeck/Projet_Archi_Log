@@ -9,8 +9,8 @@
 	<div class="container">
 		<div class="col-lg-6">
 		<h2>Ajouter Editeur du site</h2>
-		<p>Bienvenu <?php echo $_SESSION['login']; ?> | <a href="logoutAdmin">se deconnecter</a></p>
-		<p><a href="../Site_Web/dashboadAdmin">Retour</a></p>
+		<p>Bienvenue <?php echo $_SESSION['login']; ?> | <a href="logoutAdmin">se déconnecter</a></p>
+		<p><a href="../Site_Web/dashboardAdmin">Retour</a></p>
 		
 		<form method="POST" action="">
 		  <div class="form-group row">

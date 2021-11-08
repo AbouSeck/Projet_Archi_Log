@@ -16,7 +16,7 @@
 			<p>Categorie</p>
 			<input type="text" name="libelle" class='form-control' value="<?php echo $parc['libelle']; ?>"><br>
 			
-			<input type="submit" name="modifier" value="Modifier" class="btn btn-primary">
+			<input type="submit" name="modifier" value="Modifier" class="btn btn-warning">
 		</form>
 		
 		</div>
