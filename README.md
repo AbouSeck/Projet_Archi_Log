@@ -16,7 +16,8 @@ Créer un service web SOAP permettant de :  lister, ajouter, supprimer ou mod
 Créer un service web REST permettant de :
  Récupérer la liste de tous les articles. Cette liste devra être retournée au format XML ou JSON selon le choix de l’utilisateur.  récupérer la liste des articles regroupés en catégories (format XML ou JSON au choix)  récupérer la liste des articles appartenant à une catégorie fournie par l’utilisateur (format XML ou JSON au choix)
 
-*API REST + ServiceSoap
+API REST + ServiceSoap
+
     npm run start:server pour démarrer l'api REST sur le port 9000
     java ServerSoap pour lancer le web service SOAP sur le port 8787
 
