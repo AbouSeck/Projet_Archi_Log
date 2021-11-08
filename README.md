@@ -31,7 +31,7 @@ Malheureusement, nous n'avons pas pu réaliser cette partie.
 
 # Réalisé par 
 * Abou Bakr Seck
-* Djadja Pissan Prospère
+* Dadja Lanhèziè Prosper PISSAN
 * Papa Serigne Mamadou Gueye
 
 # Video de présenatation
