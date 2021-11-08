@@ -30,6 +30,6 @@ Malheureusement, nous n'avons pas pu réaliser cette partie.
     NodeJS
 
 # Réalisé par 
-  Abou Bakr Seck
-  Djadja Pissan Prospère
-  Papa Serigne Mamadou Gueye
+* Abou Bakr Seck
+* Djadja Pissan Prospère
+* Papa Serigne Mamadou Gueye
