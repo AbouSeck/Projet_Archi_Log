@@ -33,3 +33,6 @@ Malheureusement, nous n'avons pas pu réaliser cette partie.
 * Abou Bakr Seck
 * Djadja Pissan Prospère
 * Papa Serigne Mamadou Gueye
+
+# Video de présenatation
+## https://www.youtube.com/channel/UCWI1fmZL2RuzdweIY8xgT
