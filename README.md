@@ -16,9 +16,9 @@ Créer un service web SOAP permettant de :  lister, ajouter, supprimer ou mod
 Créer un service web REST permettant de :
  Récupérer la liste de tous les articles. Cette liste devra être retournée au format XML ou JSON selon le choix de l’utilisateur.  récupérer la liste des articles regroupés en catégories (format XML ou JSON au choix)  récupérer la liste des articles appartenant à une catégorie fournie par l’utilisateur (format XML ou JSON au choix)
 
-API REST + ServiceSoap
-npm run start:server pour démarrer l'api REST sur le port 9000
-java ServerSoap pour lancer le web service SOAP sur le port 8787
+*API REST + ServiceSoap
+    npm run start:server pour démarrer l'api REST sur le port 9000
+    java ServerSoap pour lancer le web service SOAP sur le port 8787
 
 # Application Client
 Créer une application Java (ou Python) permettant de gérer les utilisateurs. Quand l’application est lancée, elle demande à l’utilisateur son login et son mot de passe et invoque ainsi le service web d’authentification pour voir si l’utilisateur a les droits d’administration lui permettant d’agir sur les utilisateurs. Le cas échéant, l’application devra fournir un accès complet aux fonctionnalités de gestion des utilisateurs et ce, en utilisant les services web adéquats.
