@@ -36,7 +36,7 @@ Malheureusement, nous n'avons pas pu réaliser cette partie.
 * Papa Serigne Mamadou Gueye
 
 # Video de présenatation
-## https://www.youtube.com/channel/UCWI1fmZL2RuzdweIY8xgT
+## https://www.youtube.com/watch?v=lYbPeV6lvGU&ab_channel=AbouBakrSECK
 
 # Lien vers l'api rest et le SOAP webservice
 ## https://github.com/Pispros/PROJECT-ALG-REST-API
