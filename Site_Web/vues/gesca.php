@@ -9,11 +9,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-9">
-				<a href="dashboad">Retour</a>
+				<a href="dashboard">Retour</a>
 				<p>Cliquez ici pour <a href="ajoutcateg"><button type="button" class="btn btn-info">Ajouter catégorie</button></a></p>
 				<h4>Liste des catégories</h4>
 	<table class="table table-bordered">
-  <thead class="thead-dark">
+  <thead class="thead-light">
     <tr>
       <th scope="col">Nom catégorie</th>
       <th scope="col">Modifier</th>
@@ -27,7 +27,7 @@
 			echo '<tr>';
 			echo '<td>'.$n['libelle'].'</td>';
 			echo "<td>";
-              echo "<a href='updatecateg/".$n['id']."'><button type='button' class='btn btn-primary'>";
+              echo "<a href='updatecateg/".$n['id']."'><button type='button' class='btn btn-warning'>";
               echo 'Modifier';
               echo "</button></a>";
             echo "</td>";

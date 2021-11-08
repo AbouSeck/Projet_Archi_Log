@@ -4,7 +4,7 @@
 	$succes="";
 	if(!isset($mod))
 	  {
-	    header('location:dashboad');
+	    header('location:dashboard');
 	  }else{
 	    $id=$mod;
 	  }

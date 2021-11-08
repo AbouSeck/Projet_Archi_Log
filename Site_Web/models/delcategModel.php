@@ -3,7 +3,7 @@ session_start();
 	$message="";
 	if(!isset($categdel))
 	  {
-	    header('location:dashboad');
+	    header('location:dashboard');
 
 	  }else{
 	    

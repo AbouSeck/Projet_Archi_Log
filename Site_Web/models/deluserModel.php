@@ -3,7 +3,7 @@ session_start();
 	$message="";
 	if(!isset($userdel))
 	  {
-	    header('location:dashboad');
+	    header('location:dashboard');
 
 	  }else{
 	    

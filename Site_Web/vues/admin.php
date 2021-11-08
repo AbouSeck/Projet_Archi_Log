@@ -36,7 +36,7 @@
 		  <p style="color: red" class="art"><?php echo $err; ?></p>
 		</form>
 		
-		<p class="art"><a href="/agl/">Allez à la page d'accueil</a></p>
+		<p class="art"><a href="../Site_Web/">Allez à la page d'accueil</a></p>
 	</div>
 
 </body>

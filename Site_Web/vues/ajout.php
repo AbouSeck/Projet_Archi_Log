@@ -8,7 +8,7 @@
 <body>
 	<div class="container">
 		<div class="col-md-6"><br>
-			<p><a href="dashboad">Retour</a></p>
+			<p><a href="dashboard">Retour</a></p>
 			<h2>Editer un Article</h2>
 			<form method="POST" action="">
 				<p>Titre Article</p>

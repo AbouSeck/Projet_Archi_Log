@@ -8,7 +8,7 @@
 <body>
 	<div class="container">
 		<div class="col-lg-6"><br>
-		<p><a href="../dashboad">Retour à la liste</a></p>
+		<p><a href="../dashboard">Retour à la liste</a></p>
 		<h2>Modifier l'article</h2>
 		<p style="color: green"><?php echo $succes; ?></p>
 		<p style="color: red"><?php echo $message; ?></p>
@@ -31,7 +31,7 @@
 				
 			</select>
 			<br>
-			<input type="submit" name="modifier" value="Modifier" class="btn btn-primary">
+			<input type="submit" name="modifier" value="Modifier" class="btn btn-warning">
 		</form>
 		
 		</div>
